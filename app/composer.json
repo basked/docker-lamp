@@ -1,0 +1,15 @@
+{
+    "name": "basked/app",
+    "authors": [
+        {
+            "name": "basked",
+            "email": "basket.baza@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {}
+}
